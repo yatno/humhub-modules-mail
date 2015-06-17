@@ -1,7 +1,7 @@
 <?php
 return array (
-  'Inbox' => '',
-  'New' => '',
-  'New message' => '',
-  'There are no messages yet.' => '',
+  'Inbox' => 'Kotak Masuk',
+  'New' => 'Baru',
+  'New message' => 'Pesan baru',
+  'There are no messages yet.' => 'Belum ada pesan baru',
 );
