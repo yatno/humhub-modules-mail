@@ -1,5 +1,5 @@
 <?php
 return array (
-  'New message' => '',
-  'Send message' => '',
+  'New message' => 'Pesan baru',
+  'Send message' => 'Kirim Pesan',
 );
