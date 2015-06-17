@@ -1,6 +1,6 @@
 <?php
 return array (
-  'Messages' => '',
-  'New message' => '',
-  'Show all messages' => '',
+  'Messages' => 'Semua Pesan',
+  'New message' => 'Pesan baru',
+  'Show all messages' => 'Lihat semua pesan',
 );
